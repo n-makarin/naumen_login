@@ -1,0 +1,5 @@
+user:
+  email: foo@mail.ru
+  password: bar
+  
+url: https://servicedesk.rusklimat.ru/sd/
