@@ -4,10 +4,6 @@ This script will help you to login at <https://servicedesk.rusklimat.ru/> in two
 
 NOTE: only for macOS
 
-## Demo
-
-![demo](./demo.gif)
-
 ## Installation
 
 1. Open `login_details.yml` file
