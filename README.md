@@ -1,6 +1,6 @@
 # Naumen login
 
-This script will help you to login at <https://servicedesk.rusklimat.ru/> in two clicks.
+This script will help you to login at servicedesk in two clicks.
 
 NOTE: only for macOS
 
