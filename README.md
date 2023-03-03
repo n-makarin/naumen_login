@@ -12,4 +12,4 @@ NOTE: only for macOS
 This will compile and run `naumen_login` binary file.
 You can move and run this file from any directory.
 
-if you move the `naumen_login` project you will need to run the `install.sh` script once again to update paths.
+if you move the `./naumen_login` project you will need to run the `install.sh` script once again to update paths.
