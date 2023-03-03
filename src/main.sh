@@ -1,5 +1,4 @@
 #!/bin/bash
-realpath=/Users/nmakarin/prog/rc/naumen_login/
 
 killall 'Google Chrome' &&
 
